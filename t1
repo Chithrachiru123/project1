@@ -10,4 +10,6 @@ add new code
 add new file --mixed
 
 revert 1.0
-revert 2.0
+revert 6.0
+
+revert new changes
